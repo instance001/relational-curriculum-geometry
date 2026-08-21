@@ -2,6 +2,13 @@
 
 **Relational Curriculum Geometry** is a research hypothesis and experimental framework for testing whether the structure, order, proximity, and relational positioning of training data affects how small language models learn, reason, transfer concepts, surface uncertainty, and handle multithread tasks.
 
+Terminology boundary: in this repository, "learn," "reason," "internal
+handles," "cognitive landscape," and the rooms/roads/walls/doors/limbs
+metaphor describe a testable hypothesis about training-data order,
+latent-space organization, routing behavior, and evaluation outcomes. They are
+not claims of model consciousness, personhood, biological cognition, or direct
+access to hidden model internals.
+
 The core idea is simple:
 
 > A model does not only learn what data contains.

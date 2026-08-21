@@ -6,6 +6,13 @@ Summary
 
 The Relational Curriculum Geometry Hypothesis proposes that LLM capability is shaped not only by the amount and quality of training data, but also by the structure, order, proximity, and relational positioning of that data during training.
 
+Terminology boundary
+
+This primer uses “learn,” “internal pathways,” and the city/rooms/roads
+metaphor as accessible language for a training-data-order hypothesis. The terms
+refer to latent organization and observable model behavior, not consciousness,
+personhood, biological cognition, or direct access to hidden model internals.
+
 In simpler terms:
 
 «A model does not only learn what data contains.

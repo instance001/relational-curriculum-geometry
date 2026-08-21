@@ -2,6 +2,14 @@ Relational Curriculum Geometry Hypothesis
 
 A structured hypothesis for LLM data ordering, latent-space formation, and multithread reasoning
 
+Terminology boundary
+
+This paper uses terms such as “learns,” “internal handles,” “cognitive
+landscape,” and “latent-space urban planning” as hypothesis language for model
+training, latent organization, routing behavior, and observable evaluation
+outcomes. These phrases do not claim model consciousness, personhood,
+biological cognition, or direct access to hidden model internals.
+
 1. Core Hypothesis
 
 LLM capability is not determined only by the amount or quality of training data. It is also significantly shaped by the relational geometry of that data: how concepts are grouped, ordered, sequenced, contrasted, repeated, labeled, and connected during training.
