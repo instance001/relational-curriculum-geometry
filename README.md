@@ -17,6 +17,8 @@ The core idea is simple:
 
 This project explores whether better curriculum structure can produce cleaner model behaviour than ordinary bulk data exposure.
 
+PDF: [Relational-Curriculum-Geometry-Hypothesis.pdf](./Relational-Curriculum-Geometry-Hypothesis.pdf)
+
 ---
 
 ## Core Hypothesis
